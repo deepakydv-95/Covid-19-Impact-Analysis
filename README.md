@@ -83,15 +83,15 @@ Insights & Analysis
 
 📊 Key Insights
 
- 📈 COVID-19 cases in India showed significant fluctuations during different phases of the pandemic.
- 🦠 A few states contributed a large share of the total confirmed cases.
- 🔴 Active cases increased sharply during major waves of COVID-19.
- 💚 Recovery numbers increased steadily as more patients recovered over time.
- ⚠️ Death cases also increased during periods of high infection.
- 📅 Time-series analysis helped identify major increases and decreases in COVID-19 cases.
- 🗺️ State-wise analysis showed that the impact of COVID-19 varied significantly across Indian states.
- 📊 Interactive visualizations made it easier to compare cases, recoveries, deaths, and active cases.
- 💡 The dashboard provides a clear overview of how COVID-19 affected India over time.
+📈 COVID-19 cases in India showed significant fluctuations during different phases of the pandemic.
+🦠 A few states contributed a large share of the total confirmed cases.
+🔴 Active cases increased sharply during major waves of COVID-19.
+💚 Recovery numbers increased steadily as more patients recovered over time.
+⚠️ Death cases also increased during periods of high infection.
+📅 Time-series analysis helped identify major increases and decreases in COVID-19 cases.
+🗺️ State-wise analysis showed that the impact of COVID-19 varied significantly across Indian states.
+📊 Interactive visualizations made it easier to compare cases, recoveries, deaths, and active cases.
+💡 The dashboard provides a clear overview of how COVID-19 affected India over time.
 
 ---
 ## 🚀 Future Improvements
