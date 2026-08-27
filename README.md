@@ -28,9 +28,10 @@ The main goal of this project is to convert raw COVID-19 data into meaningful vi
 * **Pandas** – Data cleaning and data analysis
 * **Plotly** – Interactive data visualization
 * **Dash** – Interactive web dashboard
-* **Bootstrap** – Dashboard styling and responsive layout
+* **HTML** – Dashboard structure and layout
+* **CSS** – Custom styling and design
+* **Bootstrap** – Responsive dashboard styling
 * **Jupyter Notebook** – Data exploration and analysis
-
 ---
 
 ## 📊 Key Features
