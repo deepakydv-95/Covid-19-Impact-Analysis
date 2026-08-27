@@ -118,7 +118,7 @@ Insights & Analysis
 
 **Deepak Yadav**
 
-**Skills:** Python | Dash | Pandas | Plotly | Data Cleaning | Matplotlib
+**Skills:** Python | Dash | Pandas | Plotly | Data Cleaning | HTML|CSS
 
 ---
 
