@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Pandemic
+# 🦠 COVID-19 Pandemic 
 Data Analysis & Interactive Dashboard – India
 
 ## 📌 Project Overview
@@ -114,10 +114,6 @@ Insights & Analysis
 
 ---
 
-## 👨‍💻 Author
-
-**Deepak Yadav**
-
 **Skills:** Python | Dash | Pandas | Plotly | Data Cleaning | HTML|CSS
 
 ---
@@ -133,3 +129,7 @@ Insights & Analysis
 * Strengthened hands-on skills in **Python, Pandas, Plotly, Dash, and data analysis**.
 * Demonstrated the ability to work with **real-world datasets and present data-driven insights**.
 
+--- 
+## 👨‍💻 Author
+
+**Deepak Yadav**
